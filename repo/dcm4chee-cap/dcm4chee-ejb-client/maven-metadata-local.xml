@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>dcm4chee-cap</groupId>
+  <artifactId>dcm4chee-ejb-client</artifactId>
+  <versioning>
+    <release>2.16.0</release>
+    <versions>
+      <version>2.16.0</version>
+    </versions>
+    <lastUpdated>20151020000929</lastUpdated>
+  </versioning>
+</metadata>
